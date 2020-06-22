@@ -7,5 +7,4 @@ import (
 
 func main() {
 	fmt.Println(mylib.Add(1, 2))
-	//log.Info("IThome Iron man")
 }
